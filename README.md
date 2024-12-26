@@ -56,7 +56,7 @@ TRUTH TABLE :
 
 
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: BARANI S S  RegisterNumber:2490119
+/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: BARANI S S  RegisterNumber:24900119
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
